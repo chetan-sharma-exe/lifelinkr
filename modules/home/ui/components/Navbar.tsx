@@ -50,47 +50,27 @@ const Navbar = () => {
         <ul className="flex flex-col items-center">
           <li>
             <a href="#" className="block px-4 py-4">
-              ABOUT
+              Home
             </a>
           </li>
           <li>
             <a href="#" className="block px-4 py-4">
-              PREP MODULES
+              Why Choose Us
             </a>
           </li>
           <li>
             <a href="#" className="block px-4 py-4">
-              COURSES
+              Benefits
             </a>
           </li>
           <li>
             <a href="#" className="block px-4 py-4">
-              RESULTS
+              FAQs
             </a>
           </li>
           <li>
             <a href="#" className="block px-4 py-4">
-              BLOG
-            </a>
-          </li>
-          <li>
-            <a href="#" className="block px-4 py-4">
-              CONTACT
-            </a>
-          </li>
-          <li>
-            <a href="#" className="block px-4 py-4">
-              CAREER
-            </a>
-          </li>
-          <li>
-            <a href="#" className="block px-4 py-4">
-              LOGIN
-            </a>
-          </li>
-          <li>
-            <a href="#" className="block px-4 py-4">
-              PARTNERS
+              WhatsApp Us
             </a>
           </li>
         </ul>
